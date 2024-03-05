@@ -1,0 +1,11 @@
+Html stands for hyper text markup lang.
+
+<html> opening tags/component
+</html> closinnnnnng tag
+
+there 6 headings <h1>
+
+there are a paragraph tag in html <p>
+
+br tag/element <br> is self closing
+<html> websites </html>centertext is called components elements
